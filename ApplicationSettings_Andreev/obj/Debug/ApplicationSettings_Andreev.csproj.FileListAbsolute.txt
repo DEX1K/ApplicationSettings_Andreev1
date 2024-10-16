@@ -1,0 +1,17 @@
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\bin\Debug\ApplicationSettings_Kylosov.exe.config
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\bin\Debug\ApplicationSettings_Kylosov.exe
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\bin\Debug\ApplicationSettings_Kylosov.pdb
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Andreev.csprojAssemblyReference.cache
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\MainWindow.g.cs
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\Pages\Settings.g.cs
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\App.g.cs
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Kylosov_MarkupCompile.cache
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Kylosov_MarkupCompile.lref
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\MainWindow.baml
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\Pages\Settings.baml
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Kylosov.g.resources
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Kylosov.Properties.Resources.resources
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Andreev.csproj.GenerateResource.cache
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Andreev.csproj.CoreCompileInputs.cache
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Kylosov.exe
+C:\Users\ip322-02\source\repos\ApplicationSettings_Andreev\obj\Debug\ApplicationSettings_Kylosov.pdb
